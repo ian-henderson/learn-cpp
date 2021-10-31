@@ -1,0 +1,8 @@
+.vscode
+
+# g++
+a.out
+forward-declarations
+*.dSYM
+*.gch
+Logfile.txt

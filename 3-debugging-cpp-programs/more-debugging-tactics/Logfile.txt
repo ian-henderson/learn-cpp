@@ -1,0 +1,13 @@
+﻿2021-10-29 18:27:23.592 DEBUG [16312376] [main@20] main() called
+2021-10-29 18:27:23.593 DEBUG [16312376] [getUserInput@9] getUserInput() called
+2021-10-29 18:27:46.784 DEBUG [16312567] [main@20] main() called
+2021-10-29 18:27:46.785 DEBUG [16312567] [getUserInput@9] getUserInput() called
+2021-10-29 20:55:01.743 DEBUG [16395291] [main@20] main() called
+2021-10-29 20:55:01.745 DEBUG [16395291] [getUserInput@9] getUserInput() called
+2021-10-29 20:58:17.112 DEBUG [16397618] [main@20] main() called
+2021-10-29 20:58:17.113 DEBUG [16397618] [getUserInput@9] getUserInput() called
+2021-10-29 21:01:27.313 DEBUG [16400383] [main@20] main() called
+2021-10-29 21:01:27.315 DEBUG [16400383] [getUserInput@9] getUserInput() called
+2021-10-29 21:12:06.009 DEBUG [16404859] [main@20] main() called
+2021-10-29 21:14:49.516 DEBUG [16406528] [main@20] main() called
+2021-10-29 21:14:49.517 DEBUG [16406528] [getUserInput@9] getUserInput() called
